@@ -46,6 +46,7 @@ int main() {
         int kitxva;
         cin>>kitxva;
         cout<<b[kitxva];
+        
 
     }
     else
