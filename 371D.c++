@@ -41,6 +41,7 @@ int main() {
 
 
 
+
   for(int i =0; i< m;i++){
     cin>>q;
     if(q == 2)
