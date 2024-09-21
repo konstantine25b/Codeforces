@@ -1,3 +1,4 @@
+//ACCEPTED
 // D. Vessels
 // time limit per test2 seconds
 // memory limit per test256 megabytes
@@ -51,7 +52,7 @@ int main() {
 
         int kitxva;
         cin>>kitxva;
-        cout<<b[kitxva];
+        cout<<b[kitxva]<<endl;
         
 
     }
@@ -70,7 +71,7 @@ int main() {
             if(size >= a[*it]-b[*it]){
                 size=size- (a[*it]-b[*it]);
                 b[*it]=a[*it];
-                it=erase(it++);
+                it=all.erase(it);
 
             }
             else{
