@@ -43,6 +43,7 @@ int main() {
     cin>>q;
     if(q == 2)
     {
+      
         int kitxva;
         cin>>kitxva;
         cout<<b[kitxva];
