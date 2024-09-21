@@ -40,6 +40,7 @@ int main() {
   vector<int> b(n+1,0);
 
 
+
   for(int i =0; i< m;i++){
     cin>>q;
     if(q == 2)
