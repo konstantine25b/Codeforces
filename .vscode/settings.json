@@ -5,6 +5,8 @@
     "iostream": "cpp",
     "map": "cpp",
     "algorithm": "cpp",
-    "ios": "cpp"
+    "ios": "cpp",
+    "initializer_list": "cpp",
+    "set": "cpp"
   }
 }
